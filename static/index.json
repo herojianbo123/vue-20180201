@@ -1,0 +1,137 @@
+{
+  "ret": true,
+  "data": {
+    "city":"北京",
+    "banner":[{
+      "id": "0001",
+      "link": "",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1707/90/2ab6fd356529aa02.jpg_640x200_5a7251a0.jpg"
+    },{
+      "id": "0002",
+      "link": "",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1707/90/2ab6fd356529aa02.jpg_640x200_5a7251a0.jpg"
+      
+    }],
+    "icons":[{
+      "id":"00001",
+      "link": "",
+      "title":"故宫",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png"
+    },{
+      "id":"00002",
+      "link": "",
+      "title":"故宫",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png"
+
+    },{
+      "id":"00003",
+      "link": "",
+      "title":"故宫",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png"
+
+    },{
+      "id":"00004",
+      "link": "",
+      "title":"滑雪季",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png"
+
+    },{
+      "id":"00005",
+      "link": "",
+      "title":"滑雪季",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png"
+
+    },{
+      "id":"00006",
+      "link": "",
+      "title":"滑雪季",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png"
+
+    },{
+      "id":"00007",
+      "link": "",
+      "title":"滑雪季",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png"
+
+    },{
+      "id":"00008",
+      "link": "",
+      "title":"滑雪季",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png"
+
+    },{
+      "id":"00009",
+      "link": "",
+      "title":"滑雪季",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png"
+
+    },{
+      "id":"00010",
+      "link": "",
+      "title":"滑雪季",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png"
+
+    },{
+      "id":"00011",
+      "link": "",
+      "title":"滑雪季",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png"
+
+    },{
+      "id":"00012",
+      "link": "",
+      "title":"滑雪季",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png"
+
+    }],
+    "sights":[{
+      "id":"0001",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+      "title":"故宫",
+      "desc":"东方宫殿建筑代表，世界宫殿建筑典范",
+      "price":"20"
+    },{
+      "id":"0002",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+      "title":"故宫",
+      "desc":"东方宫殿建筑代表，世界宫殿建筑典范",
+      "price":"20"
+    },{
+      "id":"0003",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+      "title":"故宫",
+      "desc":"东方宫殿建筑代表，世界宫殿建筑典范",
+      "price":"20"
+    },{
+      "id":"0004",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+      "title":"故宫",
+      "desc":"东方宫殿建筑代表，世界宫殿建筑典范",
+      "price":"20"
+    },{
+      "id":"0005",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+      "title":"故宫",
+      "desc":"东方宫殿建筑代表，世界宫殿建筑典范",
+      "price":"20"
+    },{
+      "id":"0006",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+      "title":"故宫",
+      "desc":"东方宫殿建筑代表，世界宫殿建筑典范",
+      "price":"20"
+    },{
+      "id":"0007",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+      "title":"故宫",
+      "desc":"东方宫殿建筑代表，世界宫殿建筑典范",
+      "price":"20"
+    },{
+      "id":"0008",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+      "title":"故宫",
+      "desc":"东方宫殿建筑代表，世界宫殿建筑典范",
+      "price":"20"
+    }]
+  }
+}
